@@ -1,0 +1,14 @@
+Site 050 Orders:
+
+Header/Level0
+Drop Ship checked
+Auto create PO checked
+PO Vendor ID = "WOODSEQUIP"
+FactorID = "Kioti"
+Factor checkbox = checked
+AuthNbr filled in w/OldNbr Value
+
+Line Items/Level1
+Drop ship checked
+Auto - Create PO checked
+PO Vendor ID = "WOODSEQUIP"
